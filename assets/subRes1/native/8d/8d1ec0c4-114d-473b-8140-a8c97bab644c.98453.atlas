@@ -1,0 +1,118 @@
+
+hero.png
+size: 887,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_1
+  rotate: true
+  xy: 657, 478
+  size: 73, 228
+  orig: 73, 228
+  offset: 0, 0
+  index: -1
+arm_l_2
+  rotate: true
+  xy: 657, 403
+  size: 73, 228
+  orig: 73, 228
+  offset: 0, 0
+  index: -1
+arm_r_1
+  rotate: true
+  xy: 657, 328
+  size: 73, 228
+  orig: 73, 228
+  offset: 0, 0
+  index: -1
+arm_r_2
+  rotate: true
+  xy: 657, 253
+  size: 73, 228
+  orig: 73, 228
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 2
+  size: 242, 258
+  orig: 242, 258
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 413, 296
+  size: 242, 255
+  orig: 242, 255
+  offset: 0, 0
+  index: -1
+butt
+  rotate: true
+  xy: 604, 79
+  size: 172, 97
+  orig: 172, 97
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: false
+  xy: 604, 13
+  size: 109, 64
+  orig: 109, 65
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: false
+  xy: 715, 38
+  size: 109, 64
+  orig: 109, 65
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 703, 104
+  size: 141, 147
+  orig: 141, 147
+  offset: 0, 0
+  index: -1
+knife_1
+  rotate: false
+  xy: 2, 262
+  size: 289, 289
+  orig: 289, 289
+  offset: 0, 0
+  index: -1
+knife_2
+  rotate: true
+  xy: 293, 262
+  size: 289, 118
+  orig: 289, 118
+  offset: 0, 0
+  index: -1
+leg_l_1
+  rotate: false
+  xy: 426, 5
+  size: 87, 246
+  orig: 87, 246
+  offset: 0, 0
+  index: -1
+leg_l_2
+  rotate: false
+  xy: 246, 4
+  size: 88, 256
+  orig: 88, 256
+  offset: 0, 0
+  index: -1
+leg_r_1
+  rotate: false
+  xy: 515, 5
+  size: 87, 246
+  orig: 87, 246
+  offset: 0, 0
+  index: -1
+leg_r_2
+  rotate: false
+  xy: 336, 4
+  size: 88, 256
+  orig: 88, 256
+  offset: 0, 0
+  index: -1

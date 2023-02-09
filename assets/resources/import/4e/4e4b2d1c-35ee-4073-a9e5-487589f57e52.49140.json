@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"GlobalConfig","json":{"maxHpLevel":10,"maxAtkLevel":10,"atkIncrease":5,"hpIncrease":5,"atkUpgradeGold":4500,"hpUpgradeGold":3500,"goldFree":1500,"goldVideo":2500,"levelUnlockRewards":[{"lv":50,"type":1,"value":6},{"lv":100,"type":1,"value":5}]}}

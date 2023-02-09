@@ -1,0 +1,20 @@
+
+chest.png
+size: 598,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest_01
+  rotate: true
+  xy: 337, 2
+  size: 272, 259
+  orig: 272, 334
+  offset: 0, 0
+  index: -1
+chest_02
+  rotate: true
+  xy: 2, 2
+  size: 272, 333
+  orig: 272, 334
+  offset: 0, 1
+  index: -1

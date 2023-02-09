@@ -1,0 +1,139 @@
+
+armor.png
+size: 1582,1085
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor05_1
+  rotate: false
+  xy: 1026, 359
+  size: 286, 213
+  orig: 286, 213
+  offset: 0, 0
+  index: -1
+armor05_10
+  rotate: false
+  xy: 340, 705
+  size: 374, 378
+  orig: 374, 378
+  offset: 0, 0
+  index: -1
+armor05_11
+  rotate: false
+  xy: 1338, 156
+  size: 241, 151
+  orig: 241, 151
+  offset: 0, 0
+  index: -1
+armor05_12
+  rotate: false
+  xy: 1314, 309
+  size: 254, 127
+  orig: 254, 127
+  offset: 0, 0
+  index: -1
+armor05_13
+  rotate: true
+  xy: 1220, 675
+  size: 230, 311
+  orig: 230, 311
+  offset: 0, 0
+  index: -1
+armor05_14
+  rotate: false
+  xy: 1314, 438
+  size: 266, 235
+  orig: 266, 235
+  offset: 0, 0
+  index: -1
+armor05_15
+  rotate: false
+  xy: 586, 9
+  size: 239, 316
+  orig: 239, 316
+  offset: 0, 0
+  index: -1
+armor05_2
+  rotate: false
+  xy: 1026, 574
+  size: 190, 177
+  orig: 190, 177
+  offset: 0, 0
+  index: -1
+armor05_3
+  rotate: false
+  xy: 1220, 907
+  size: 328, 176
+  orig: 328, 176
+  offset: 0, 0
+  index: -1
+armor05_4
+  rotate: false
+  xy: 827, 13
+  size: 269, 334
+  orig: 269, 334
+  offset: 0, 0
+  index: -1
+armor05_6
+  rotate: true
+  xy: 369, 327
+  size: 376, 348
+  orig: 376, 348
+  offset: 0, 0
+  index: -1
+armor05_7
+  rotate: true
+  xy: 383, 4
+  size: 321, 201
+  orig: 321, 202
+  offset: 0, 0
+  index: -1
+armor05_8
+  rotate: false
+  xy: 1098, 2
+  size: 238, 305
+  orig: 238, 305
+  offset: 0, 0
+  index: -1
+armor05_9
+  rotate: false
+  xy: 716, 715
+  size: 171, 368
+  orig: 171, 368
+  offset: 0, 0
+  index: -1
+armor_16
+  rotate: false
+  xy: 2, 8
+  size: 379, 287
+  orig: 379, 287
+  offset: 0, 0
+  index: -1
+armor_17
+  rotate: true
+  xy: 889, 753
+  size: 330, 329
+  orig: 330, 330
+  offset: 0, 1
+  index: -1
+armor_18
+  rotate: true
+  xy: 719, 349
+  size: 364, 305
+  orig: 364, 305
+  offset: 0, 0
+  index: -1
+armor_19
+  rotate: false
+  xy: 2, 682
+  size: 336, 401
+  orig: 336, 401
+  offset: 0, 0
+  index: -1
+armor_20
+  rotate: false
+  xy: 2, 297
+  size: 365, 383
+  orig: 365, 384
+  offset: 0, 0
+  index: -1

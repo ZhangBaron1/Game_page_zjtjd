@@ -1,0 +1,146 @@
+
+armor.png
+size: 1481,1060
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor_1
+  rotate: true
+  xy: 986, 2
+  size: 300, 161
+  orig: 300, 161
+  offset: 0, 0
+  index: -1
+armor_10
+  rotate: false
+  xy: 340, 679
+  size: 338, 379
+  orig: 338, 379
+  offset: 0, 0
+  index: -1
+armor_11
+  rotate: false
+  xy: 1011, 311
+  size: 121, 93
+  orig: 136, 93
+  offset: 15, 0
+  index: -1
+armor_12
+  rotate: false
+  xy: 1011, 475
+  size: 120, 73
+  orig: 131, 73
+  offset: 11, 0
+  index: -1
+armor_13
+  rotate: true
+  xy: 1149, 406
+  size: 149, 323
+  orig: 149, 323
+  offset: 0, 0
+  index: -1
+armor_14
+  rotate: true
+  xy: 1149, 406
+  size: 149, 323
+  orig: 149, 323
+  offset: 0, 0
+  index: -1
+armor_15
+  rotate: false
+  xy: 857, 746
+  size: 287, 312
+  orig: 287, 312
+  offset: 0, 0
+  index: -1
+armor_16
+  rotate: true
+  xy: 369, 298
+  size: 379, 287
+  orig: 379, 287
+  offset: 0, 0
+  index: -1
+armor_17
+  rotate: false
+  xy: 1149, 729
+  size: 330, 329
+  orig: 330, 330
+  offset: 0, 1
+  index: -1
+armor_18
+  rotate: true
+  xy: 1149, 38
+  size: 366, 306
+  orig: 366, 306
+  offset: 0, 0
+  index: -1
+armor_19
+  rotate: false
+  xy: 2, 657
+  size: 336, 401
+  orig: 336, 401
+  offset: 0, 0
+  index: -1
+armor_2
+  rotate: true
+  xy: 167, 41
+  size: 229, 171
+  orig: 229, 171
+  offset: 0, 0
+  index: -1
+armor_20
+  rotate: false
+  xy: 2, 272
+  size: 365, 383
+  orig: 365, 384
+  offset: 0, 0
+  index: -1
+armor_3
+  rotate: false
+  xy: 1149, 557
+  size: 328, 170
+  orig: 328, 170
+  offset: 0, 0
+  index: -1
+armor_4
+  rotate: true
+  xy: 2, 2
+  size: 268, 163
+  orig: 268, 163
+  offset: 0, 0
+  index: -1
+armor_5
+  rotate: true
+  xy: 1011, 550
+  size: 194, 133
+  orig: 194, 133
+  offset: 0, 0
+  index: -1
+armor_6
+  rotate: false
+  xy: 658, 304
+  size: 351, 373
+  orig: 351, 373
+  offset: 0, 0
+  index: -1
+armor_7
+  rotate: false
+  xy: 340, 72
+  size: 307, 198
+  orig: 307, 198
+  offset: 0, 0
+  index: -1
+armor_8
+  rotate: true
+  xy: 649, 9
+  size: 287, 335
+  orig: 287, 336
+  offset: 0, 0
+  index: -1
+armor_9
+  rotate: false
+  xy: 680, 686
+  size: 175, 372
+  orig: 175, 372
+  offset: 0, 0
+  index: -1
